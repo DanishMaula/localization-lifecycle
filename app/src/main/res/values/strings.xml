@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">localization-lifecycle</string>
+    <string name="on_click">Click here!</string>
+</resources>
